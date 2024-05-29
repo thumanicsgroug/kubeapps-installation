@@ -21,3 +21,8 @@ This script automates the installation and setup of Kubeapps on Ubuntu Server 22
    ```bash
    chmod +x kubeapps-ubuntu-22-04.sh
    ```
+4. Mlaunch  the script:
+
+```bash
+   bash kubeapps-ubuntu-22-04.sh
+```
